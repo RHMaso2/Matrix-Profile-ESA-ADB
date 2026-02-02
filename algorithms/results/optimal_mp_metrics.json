@@ -1,0 +1,27 @@
+{
+  "EW_precision": 0.0024129206267103523,
+  "EW_precision_raw": 0.0024206839719818707,
+  "EW_recall": 0.43119266055045874,
+  "alarming_precision": 0.035823170731707314,
+  "AFF_precision": 0.10815019263627168,
+  "AFF_recall": 0.06585925634624194,
+  "detected_events": 47,
+  "total_events": 109,
+  "pred_events": 20681,
+  "redundant_detections": 1265,
+  "false_positive_duration": 23189.0,
+  "EW_F_0.50": 0.0030119371418300123,
+  "AFF_F_0.50": 0.09584144603596861,
+  "EW_F_1.00": 0.004798986497838463,
+  "AFF_F_1.00": 0.08186556882256929,
+  "EW_F_2.00": 0.011800465188152403,
+  "AFF_F_2.00": 0.07144696541815691,
+  "channel_attribution": {
+    "channel_41": 121649,
+    "channel_42": 15758,
+    "channel_43": 171846,
+    "channel_44": 36915,
+    "channel_45": 90189,
+    "channel_46": 10907
+  }
+}
