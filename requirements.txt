@@ -1,0 +1,15 @@
+# Core dependencies
+numpy>=1.21.0
+pandas>=1.3.0
+stumpy>=1.11.0
+scipy>=1.7.0
+numba>=0.54.0
+
+# Hyperparameter optimization
+optuna>=3.0.0
+
+# Utility
+portion>=2.4.0
+
+# Optional: GPU acceleration (uncomment if using CUDA)
+# cupy-cuda11x>=10.0.0
